@@ -2,8 +2,8 @@
 Changelog for package libstatistics_collector
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+2.0.0 (2024-07-29)
+------------------
 * Removed deprecated classes (`#200 <https://github.com/ros-tooling/libstatistics_collector/issues/200>`_)
 * fix: add void annotation (`#194 <https://github.com/ros-tooling/libstatistics_collector/issues/194>`_)
 * Contributors: Alejandro Hernández Cordero, Daisuke Nishimatsu, dependabot[bot]
